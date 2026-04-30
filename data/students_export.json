@@ -1,0 +1,3162 @@
+[
+    {
+        "Type of School": "MS",
+        "age of the student": 19,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 8,
+        "Grades in 2nd Subject": 9,
+        "Grades in 3rd Subject": 9
+    },
+    {
+        "Type of School": "MS",
+        "age of the student": 18,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 11,
+        "Grades in 2nd Subject": 12,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "MS",
+        "age of the student": 21,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 10,
+        "Grades in 2nd Subject": 8,
+        "Grades in 3rd Subject": 7
+    },
+    {
+        "Type of School": "MS",
+        "age of the student": 17,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 14,
+        "Grades in 2nd Subject": 16,
+        "Grades in 3rd Subject": 16
+    },
+    {
+        "Type of School": "MS",
+        "age of the student": 20,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 9,
+        "Grades in 2nd Subject": 9,
+        "Grades in 3rd Subject": 9
+    },
+    {
+        "Type of School": "MS",
+        "age of the student": 18,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 6,
+        "Grades in 2nd Subject": 5,
+        "Grades in 3rd Subject": 0
+    },
+    {
+        "Type of School": "MS",
+        "age of the student": 18,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 7,
+        "Grades in 2nd Subject": 9,
+        "Grades in 3rd Subject": 8
+    },
+    {
+        "Type of School": "MS",
+        "age of the student": 19,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 7,
+        "Grades in 2nd Subject": 5,
+        "Grades in 3rd Subject": 0
+    },
+    {
+        "Type of School": "MS",
+        "age of the student": 18,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 6,
+        "Grades in 2nd Subject": 5,
+        "Grades in 3rd Subject": 6
+    },
+    {
+        "Type of School": "MS",
+        "age of the student": 18,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 10,
+        "Grades in 2nd Subject": 9,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "MS",
+        "age of the student": 18,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 6,
+        "Grades in 2nd Subject": 5,
+        "Grades in 3rd Subject": 5
+    },
+    {
+        "Type of School": "MS",
+        "age of the student": 19,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 6,
+        "Grades in 2nd Subject": 5,
+        "Grades in 3rd Subject": 0
+    },
+    {
+        "Type of School": "MS",
+        "age of the student": 17,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 11,
+        "Grades in 2nd Subject": 11,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "MS",
+        "age of the student": 18,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 7,
+        "Grades in 2nd Subject": 6,
+        "Grades in 3rd Subject": 7
+    },
+    {
+        "Type of School": "MS",
+        "age of the student": 18,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 15,
+        "Grades in 2nd Subject": 14,
+        "Grades in 3rd Subject": 14
+    },
+    {
+        "Type of School": "MS",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 10,
+        "Grades in 2nd Subject": 10,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "MS",
+        "age of the student": 18,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 15,
+        "Grades in 2nd Subject": 15,
+        "Grades in 3rd Subject": 15
+    },
+    {
+        "Type of School": "MS",
+        "age of the student": 18,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 8,
+        "Grades in 2nd Subject": 9,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "MS",
+        "age of the student": 20,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 15,
+        "Grades in 2nd Subject": 14,
+        "Grades in 3rd Subject": 15
+    },
+    {
+        "Type of School": "MS",
+        "age of the student": 18,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 8,
+        "Grades in 2nd Subject": 8,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "MS",
+        "age of the student": 18,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 19,
+        "Grades in 2nd Subject": 18,
+        "Grades in 3rd Subject": 19
+    },
+    {
+        "Type of School": "MS",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 6,
+        "Grades in 2nd Subject": 5,
+        "Grades in 3rd Subject": 5
+    },
+    {
+        "Type of School": "MS",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 13,
+        "Grades in 2nd Subject": 11,
+        "Grades in 3rd Subject": 11
+    },
+    {
+        "Type of School": "MS",
+        "age of the student": 18,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 14,
+        "Grades in 2nd Subject": 12,
+        "Grades in 3rd Subject": 12
+    },
+    {
+        "Type of School": "MS",
+        "age of the student": 19,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 7,
+        "Grades in 2nd Subject": 7,
+        "Grades in 3rd Subject": 9
+    },
+    {
+        "Type of School": "MS",
+        "age of the student": 18,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 14,
+        "Grades in 2nd Subject": 12,
+        "Grades in 3rd Subject": 11
+    },
+    {
+        "Type of School": "MS",
+        "age of the student": 18,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 11,
+        "Grades in 2nd Subject": 10,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "MS",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 7,
+        "Grades in 2nd Subject": 6,
+        "Grades in 3rd Subject": 0
+    },
+    {
+        "Type of School": "MS",
+        "age of the student": 18,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 13,
+        "Grades in 2nd Subject": 13,
+        "Grades in 3rd Subject": 13
+    },
+    {
+        "Type of School": "MS",
+        "age of the student": 18,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 10,
+        "Grades in 2nd Subject": 10,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "MS",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 12,
+        "Grades in 2nd Subject": 11,
+        "Grades in 3rd Subject": 12
+    },
+    {
+        "Type of School": "MS",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 16,
+        "Grades in 2nd Subject": 15,
+        "Grades in 3rd Subject": 15
+    },
+    {
+        "Type of School": "MS",
+        "age of the student": 18,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 11,
+        "Grades in 2nd Subject": 11,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "MS",
+        "age of the student": 18,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 13,
+        "Grades in 2nd Subject": 12,
+        "Grades in 3rd Subject": 12
+    },
+    {
+        "Type of School": "MS",
+        "age of the student": 18,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 13,
+        "Grades in 2nd Subject": 13,
+        "Grades in 3rd Subject": 13
+    },
+    {
+        "Type of School": "MS",
+        "age of the student": 18,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 18,
+        "Grades in 2nd Subject": 16,
+        "Grades in 3rd Subject": 16
+    },
+    {
+        "Type of School": "MS",
+        "age of the student": 18,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 10,
+        "Grades in 2nd Subject": 10,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "MS",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 12,
+        "Grades in 2nd Subject": 12,
+        "Grades in 3rd Subject": 11
+    },
+    {
+        "Type of School": "MS",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 12,
+        "Grades in 2nd Subject": 13,
+        "Grades in 3rd Subject": 13
+    },
+    {
+        "Type of School": "MS",
+        "age of the student": 18,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 10,
+        "Grades in 2nd Subject": 9,
+        "Grades in 3rd Subject": 9
+    },
+    {
+        "Type of School": "MS",
+        "age of the student": 17,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 13,
+        "Grades in 2nd Subject": 11,
+        "Grades in 3rd Subject": 11
+    },
+    {
+        "Type of School": "MS",
+        "age of the student": 19,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 8,
+        "Grades in 2nd Subject": 8,
+        "Grades in 3rd Subject": 8
+    },
+    {
+        "Type of School": "MS",
+        "age of the student": 18,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 8,
+        "Grades in 2nd Subject": 7,
+        "Grades in 3rd Subject": 8
+    },
+    {
+        "Type of School": "MS",
+        "age of the student": 17,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 13,
+        "Grades in 2nd Subject": 13,
+        "Grades in 3rd Subject": 13
+    },
+    {
+        "Type of School": "MS",
+        "age of the student": 19,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 8,
+        "Grades in 2nd Subject": 7,
+        "Grades in 3rd Subject": 8
+    },
+    {
+        "Type of School": "MS",
+        "age of the student": 18,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 11,
+        "Grades in 2nd Subject": 13,
+        "Grades in 3rd Subject": 13
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 13,
+        "Grades in 2nd Subject": 15,
+        "Grades in 3rd Subject": 15
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 10,
+        "Grades in 2nd Subject": 10,
+        "Grades in 3rd Subject": 9
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 16,
+        "Grades in 2nd Subject": 15,
+        "Grades in 3rd Subject": 16
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 13,
+        "Grades in 2nd Subject": 13,
+        "Grades in 3rd Subject": 14
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 11,
+        "Grades in 2nd Subject": 10,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 9,
+        "Grades in 2nd Subject": 8,
+        "Grades in 3rd Subject": 0
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 16,
+        "Grades in 2nd Subject": 15,
+        "Grades in 3rd Subject": 15
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 10,
+        "Grades in 2nd Subject": 10,
+        "Grades in 3rd Subject": 0
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 19,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 11,
+        "Grades in 2nd Subject": 12,
+        "Grades in 3rd Subject": 11
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 9,
+        "Grades in 2nd Subject": 10,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 16,
+        "Grades in 2nd Subject": 15,
+        "Grades in 3rd Subject": 17
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 7,
+        "Grades in 2nd Subject": 8,
+        "Grades in 3rd Subject": 0
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 19,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 14,
+        "Grades in 2nd Subject": 13,
+        "Grades in 3rd Subject": 13
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 16,
+        "Grades in 2nd Subject": 15,
+        "Grades in 3rd Subject": 15
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 10,
+        "Grades in 2nd Subject": 9,
+        "Grades in 3rd Subject": 0
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 8,
+        "Grades in 2nd Subject": 8,
+        "Grades in 3rd Subject": 0
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 7,
+        "Grades in 2nd Subject": 0,
+        "Grades in 3rd Subject": 0
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 12,
+        "Grades in 2nd Subject": 14,
+        "Grades in 3rd Subject": 14
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 9,
+        "Grades in 2nd Subject": 8,
+        "Grades in 3rd Subject": 8
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 14,
+        "Grades in 2nd Subject": 14,
+        "Grades in 3rd Subject": 14
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 10,
+        "Grades in 2nd Subject": 9,
+        "Grades in 3rd Subject": 9
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 11,
+        "Grades in 2nd Subject": 10,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 14,
+        "Grades in 2nd Subject": 15,
+        "Grades in 3rd Subject": 16
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 9,
+        "Grades in 2nd Subject": 12,
+        "Grades in 3rd Subject": 11
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 16,
+        "Grades in 2nd Subject": 15,
+        "Grades in 3rd Subject": 15
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 12,
+        "Grades in 2nd Subject": 14,
+        "Grades in 3rd Subject": 15
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 11,
+        "Grades in 2nd Subject": 11,
+        "Grades in 3rd Subject": 11
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 11,
+        "Grades in 2nd Subject": 9,
+        "Grades in 3rd Subject": 9
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 13,
+        "Grades in 2nd Subject": 13,
+        "Grades in 3rd Subject": 13
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 11,
+        "Grades in 2nd Subject": 11,
+        "Grades in 3rd Subject": 11
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 11,
+        "Grades in 2nd Subject": 11,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 9,
+        "Grades in 2nd Subject": 10,
+        "Grades in 3rd Subject": 9
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 8,
+        "Grades in 2nd Subject": 8,
+        "Grades in 3rd Subject": 0
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 19,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 13,
+        "Grades in 2nd Subject": 11,
+        "Grades in 3rd Subject": 11
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 19,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 15,
+        "Grades in 2nd Subject": 13,
+        "Grades in 3rd Subject": 13
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 19,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 13,
+        "Grades in 2nd Subject": 10,
+        "Grades in 3rd Subject": 11
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 19,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 13,
+        "Grades in 2nd Subject": 11,
+        "Grades in 3rd Subject": 11
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 19,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 14,
+        "Grades in 2nd Subject": 12,
+        "Grades in 3rd Subject": 13
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 19,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 9,
+        "Grades in 2nd Subject": 9,
+        "Grades in 3rd Subject": 0
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 19,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 12,
+        "Grades in 2nd Subject": 10,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 19,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 15,
+        "Grades in 2nd Subject": 12,
+        "Grades in 3rd Subject": 12
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 19,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 8,
+        "Grades in 2nd Subject": 9,
+        "Grades in 3rd Subject": 8
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 20,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 17,
+        "Grades in 2nd Subject": 18,
+        "Grades in 3rd Subject": 18
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 14,
+        "Grades in 2nd Subject": 12,
+        "Grades in 3rd Subject": 12
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 19,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 15,
+        "Grades in 2nd Subject": 14,
+        "Grades in 3rd Subject": 13
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 17,
+        "Grades in 2nd Subject": 17,
+        "Grades in 3rd Subject": 18
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 15,
+        "Grades in 2nd Subject": 12,
+        "Grades in 3rd Subject": 14
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 11,
+        "Grades in 2nd Subject": 11,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 12,
+        "Grades in 2nd Subject": 10,
+        "Grades in 3rd Subject": 11
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 16,
+        "Grades in 2nd Subject": 15,
+        "Grades in 3rd Subject": 16
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 14,
+        "Grades in 2nd Subject": 13,
+        "Grades in 3rd Subject": 14
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 10,
+        "Grades in 2nd Subject": 8,
+        "Grades in 3rd Subject": 8
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 19,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 10,
+        "Grades in 2nd Subject": 9,
+        "Grades in 3rd Subject": 0
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 14,
+        "Grades in 2nd Subject": 12,
+        "Grades in 3rd Subject": 11
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 14,
+        "Grades in 2nd Subject": 13,
+        "Grades in 3rd Subject": 14
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 18,
+        "Grades in 2nd Subject": 18,
+        "Grades in 3rd Subject": 18
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 12,
+        "Grades in 2nd Subject": 12,
+        "Grades in 3rd Subject": 13
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 15,
+        "Grades in 2nd Subject": 15,
+        "Grades in 3rd Subject": 15
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 12,
+        "Grades in 2nd Subject": 11,
+        "Grades in 3rd Subject": 11
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 15,
+        "Grades in 2nd Subject": 13,
+        "Grades in 3rd Subject": 15
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 15,
+        "Grades in 2nd Subject": 14,
+        "Grades in 3rd Subject": 14
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 13,
+        "Grades in 2nd Subject": 12,
+        "Grades in 3rd Subject": 12
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 18,
+        "Grades in 2nd Subject": 18,
+        "Grades in 3rd Subject": 19
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 12,
+        "Grades in 2nd Subject": 10,
+        "Grades in 3rd Subject": 11
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 10,
+        "Grades in 2nd Subject": 9,
+        "Grades in 3rd Subject": 11
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 8,
+        "Grades in 2nd Subject": 9,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 12,
+        "Grades in 2nd Subject": 12,
+        "Grades in 3rd Subject": 12
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 11,
+        "Grades in 2nd Subject": 9,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 8,
+        "Grades in 2nd Subject": 8,
+        "Grades in 3rd Subject": 8
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 10,
+        "Grades in 2nd Subject": 11,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 9,
+        "Grades in 2nd Subject": 8,
+        "Grades in 3rd Subject": 8
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 9,
+        "Grades in 2nd Subject": 9,
+        "Grades in 3rd Subject": 9
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 10,
+        "Grades in 2nd Subject": 9,
+        "Grades in 3rd Subject": 9
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 12,
+        "Grades in 2nd Subject": 12,
+        "Grades in 3rd Subject": 12
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 10,
+        "Grades in 2nd Subject": 10,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 15,
+        "Grades in 2nd Subject": 14,
+        "Grades in 3rd Subject": 14
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 11,
+        "Grades in 2nd Subject": 11,
+        "Grades in 3rd Subject": 11
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 15,
+        "Grades in 2nd Subject": 14,
+        "Grades in 3rd Subject": 14
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 19,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 9,
+        "Grades in 2nd Subject": 9,
+        "Grades in 3rd Subject": 9
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 6,
+        "Grades in 2nd Subject": 0,
+        "Grades in 3rd Subject": 0
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 10,
+        "Grades in 2nd Subject": 9,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 12,
+        "Grades in 2nd Subject": 10,
+        "Grades in 3rd Subject": 11
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 9,
+        "Grades in 2nd Subject": 9,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 17,
+        "Grades in 2nd Subject": 17,
+        "Grades in 3rd Subject": 17
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 9,
+        "Grades in 2nd Subject": 10,
+        "Grades in 3rd Subject": 0
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 10,
+        "Grades in 2nd Subject": 9,
+        "Grades in 3rd Subject": 9
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 13,
+        "Grades in 2nd Subject": 12,
+        "Grades in 3rd Subject": 12
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 8,
+        "Grades in 2nd Subject": 8,
+        "Grades in 3rd Subject": 8
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 17,
+        "Grades in 2nd Subject": 18,
+        "Grades in 3rd Subject": 18
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 10,
+        "Grades in 2nd Subject": 9,
+        "Grades in 3rd Subject": 0
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 15,
+        "Grades in 2nd Subject": 14,
+        "Grades in 3rd Subject": 14
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 19,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 11,
+        "Grades in 2nd Subject": 11,
+        "Grades in 3rd Subject": 11
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 14,
+        "Grades in 2nd Subject": 12,
+        "Grades in 3rd Subject": 13
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 7,
+        "Grades in 2nd Subject": 9,
+        "Grades in 3rd Subject": 8
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 8,
+        "Grades in 2nd Subject": 12,
+        "Grades in 3rd Subject": 12
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 8,
+        "Grades in 2nd Subject": 9,
+        "Grades in 3rd Subject": 8
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 6,
+        "Grades in 2nd Subject": 9,
+        "Grades in 3rd Subject": 8
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 7,
+        "Grades in 2nd Subject": 10,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 6,
+        "Grades in 2nd Subject": 8,
+        "Grades in 3rd Subject": 8
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 13,
+        "Grades in 2nd Subject": 15,
+        "Grades in 3rd Subject": 15
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 3,
+        "Grades in 2nd Subject": 5,
+        "Grades in 3rd Subject": 5
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 22,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 6,
+        "Grades in 2nd Subject": 8,
+        "Grades in 3rd Subject": 8
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 12,
+        "Grades in 2nd Subject": 12,
+        "Grades in 3rd Subject": 13
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 18,
+        "Grades in 2nd Subject": 18,
+        "Grades in 3rd Subject": 18
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 7,
+        "Grades in 2nd Subject": 0,
+        "Grades in 3rd Subject": 0
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 13,
+        "Grades in 2nd Subject": 12,
+        "Grades in 3rd Subject": 12
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 6,
+        "Grades in 2nd Subject": 0,
+        "Grades in 3rd Subject": 0
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 10,
+        "Grades in 2nd Subject": 11,
+        "Grades in 3rd Subject": 12
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 12,
+        "Grades in 2nd Subject": 12,
+        "Grades in 3rd Subject": 12
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 7,
+        "Grades in 2nd Subject": 7,
+        "Grades in 3rd Subject": 0
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 13,
+        "Grades in 2nd Subject": 11,
+        "Grades in 3rd Subject": 11
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 13,
+        "Grades in 2nd Subject": 12,
+        "Grades in 3rd Subject": 12
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 14,
+        "Grades in 2nd Subject": 13,
+        "Grades in 3rd Subject": 13
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 11,
+        "Grades in 2nd Subject": 9,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 9,
+        "Grades in 2nd Subject": 7,
+        "Grades in 3rd Subject": 6
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 14,
+        "Grades in 2nd Subject": 13,
+        "Grades in 3rd Subject": 13
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 11,
+        "Grades in 2nd Subject": 9,
+        "Grades in 3rd Subject": 9
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 11,
+        "Grades in 2nd Subject": 11,
+        "Grades in 3rd Subject": 11
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 13,
+        "Grades in 2nd Subject": 13,
+        "Grades in 3rd Subject": 14
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 12,
+        "Grades in 2nd Subject": 10,
+        "Grades in 3rd Subject": 12
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 10,
+        "Grades in 2nd Subject": 8,
+        "Grades in 3rd Subject": 9
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 12,
+        "Grades in 2nd Subject": 11,
+        "Grades in 3rd Subject": 12
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 16,
+        "Grades in 2nd Subject": 15,
+        "Grades in 3rd Subject": 15
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 9,
+        "Grades in 2nd Subject": 8,
+        "Grades in 3rd Subject": 7
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 13,
+        "Grades in 2nd Subject": 13,
+        "Grades in 3rd Subject": 14
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 12,
+        "Grades in 2nd Subject": 13,
+        "Grades in 3rd Subject": 13
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 16,
+        "Grades in 2nd Subject": 16,
+        "Grades in 3rd Subject": 17
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 6,
+        "Grades in 2nd Subject": 5,
+        "Grades in 3rd Subject": 0
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 6,
+        "Grades in 2nd Subject": 6,
+        "Grades in 3rd Subject": 6
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 9,
+        "Grades in 2nd Subject": 10,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 7,
+        "Grades in 2nd Subject": 7,
+        "Grades in 3rd Subject": 8
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 6,
+        "Grades in 2nd Subject": 6,
+        "Grades in 3rd Subject": 8
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 6,
+        "Grades in 2nd Subject": 6,
+        "Grades in 3rd Subject": 4
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 14,
+        "Grades in 2nd Subject": 15,
+        "Grades in 3rd Subject": 15
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 8,
+        "Grades in 2nd Subject": 10,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 6,
+        "Grades in 2nd Subject": 7,
+        "Grades in 3rd Subject": 8
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 12,
+        "Grades in 2nd Subject": 13,
+        "Grades in 3rd Subject": 14
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 12,
+        "Grades in 2nd Subject": 12,
+        "Grades in 3rd Subject": 13
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 19,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 8,
+        "Grades in 2nd Subject": 8,
+        "Grades in 3rd Subject": 8
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 7,
+        "Grades in 2nd Subject": 7,
+        "Grades in 3rd Subject": 7
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 9,
+        "Grades in 2nd Subject": 9,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 11,
+        "Grades in 2nd Subject": 12,
+        "Grades in 3rd Subject": 13
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 7,
+        "Grades in 2nd Subject": 7,
+        "Grades in 3rd Subject": 7
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 10,
+        "Grades in 2nd Subject": 9,
+        "Grades in 3rd Subject": 9
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 10,
+        "Grades in 2nd Subject": 10,
+        "Grades in 3rd Subject": 11
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 7,
+        "Grades in 2nd Subject": 6,
+        "Grades in 3rd Subject": 6
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 9,
+        "Grades in 2nd Subject": 9,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 8,
+        "Grades in 2nd Subject": 10,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 16,
+        "Grades in 2nd Subject": 16,
+        "Grades in 3rd Subject": 16
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 9,
+        "Grades in 2nd Subject": 9,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 18,
+        "Grades in 2nd Subject": 18,
+        "Grades in 3rd Subject": 18
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 9,
+        "Grades in 2nd Subject": 9,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 17,
+        "Grades in 2nd Subject": 15,
+        "Grades in 3rd Subject": 16
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 14,
+        "Grades in 2nd Subject": 15,
+        "Grades in 3rd Subject": 15
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 13,
+        "Grades in 2nd Subject": 14,
+        "Grades in 3rd Subject": 14
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 8,
+        "Grades in 2nd Subject": 9,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 7,
+        "Grades in 2nd Subject": 8,
+        "Grades in 3rd Subject": 8
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 8,
+        "Grades in 2nd Subject": 8,
+        "Grades in 3rd Subject": 9
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 11,
+        "Grades in 2nd Subject": 12,
+        "Grades in 3rd Subject": 13
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 8,
+        "Grades in 2nd Subject": 9,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 8,
+        "Grades in 2nd Subject": 7,
+        "Grades in 3rd Subject": 9
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 15,
+        "Grades in 2nd Subject": 15,
+        "Grades in 3rd Subject": 15
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 11,
+        "Grades in 2nd Subject": 12,
+        "Grades in 3rd Subject": 11
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 12,
+        "Grades in 2nd Subject": 12,
+        "Grades in 3rd Subject": 11
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 12,
+        "Grades in 2nd Subject": 13,
+        "Grades in 3rd Subject": 12
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 9,
+        "Grades in 2nd Subject": 9,
+        "Grades in 3rd Subject": 8
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 16,
+        "Grades in 2nd Subject": 17,
+        "Grades in 3rd Subject": 17
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 12,
+        "Grades in 2nd Subject": 13,
+        "Grades in 3rd Subject": 12
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 9,
+        "Grades in 2nd Subject": 8,
+        "Grades in 3rd Subject": 8
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 10,
+        "Grades in 2nd Subject": 10,
+        "Grades in 3rd Subject": 11
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 10,
+        "Grades in 2nd Subject": 8,
+        "Grades in 3rd Subject": 9
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 6,
+        "Grades in 2nd Subject": 5,
+        "Grades in 3rd Subject": 6
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 13,
+        "Grades in 2nd Subject": 13,
+        "Grades in 3rd Subject": 11
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 10,
+        "Grades in 2nd Subject": 9,
+        "Grades in 3rd Subject": 9
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 10,
+        "Grades in 2nd Subject": 11,
+        "Grades in 3rd Subject": 9
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 8,
+        "Grades in 2nd Subject": 7,
+        "Grades in 3rd Subject": 0
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 13,
+        "Grades in 2nd Subject": 11,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 13,
+        "Grades in 2nd Subject": 15,
+        "Grades in 3rd Subject": 16
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 6,
+        "Grades in 2nd Subject": 5,
+        "Grades in 3rd Subject": 0
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 14,
+        "Grades in 2nd Subject": 14,
+        "Grades in 3rd Subject": 14
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 6,
+        "Grades in 2nd Subject": 7,
+        "Grades in 3rd Subject": 0
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 14,
+        "Grades in 2nd Subject": 15,
+        "Grades in 3rd Subject": 16
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 10,
+        "Grades in 2nd Subject": 10,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 12,
+        "Grades in 2nd Subject": 11,
+        "Grades in 3rd Subject": 12
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 5,
+        "Grades in 2nd Subject": 8,
+        "Grades in 3rd Subject": 7
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 10,
+        "Grades in 2nd Subject": 10,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 7,
+        "Grades in 2nd Subject": 0,
+        "Grades in 3rd Subject": 0
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 5,
+        "Grades in 2nd Subject": 9,
+        "Grades in 3rd Subject": 7
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 7,
+        "Grades in 2nd Subject": 6,
+        "Grades in 3rd Subject": 0
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 10,
+        "Grades in 2nd Subject": 12,
+        "Grades in 3rd Subject": 12
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 17,
+        "Grades in 2nd Subject": 15,
+        "Grades in 3rd Subject": 15
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 9,
+        "Grades in 2nd Subject": 8,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 16,
+        "Grades in 2nd Subject": 12,
+        "Grades in 3rd Subject": 13
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 11,
+        "Grades in 2nd Subject": 8,
+        "Grades in 3rd Subject": 8
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 11,
+        "Grades in 2nd Subject": 11,
+        "Grades in 3rd Subject": 12
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 19,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 5,
+        "Grades in 2nd Subject": 0,
+        "Grades in 3rd Subject": 0
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 10,
+        "Grades in 2nd Subject": 10,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 12,
+        "Grades in 2nd Subject": 13,
+        "Grades in 3rd Subject": 14
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 6,
+        "Grades in 2nd Subject": 5,
+        "Grades in 3rd Subject": 0
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 8,
+        "Grades in 2nd Subject": 9,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 7,
+        "Grades in 2nd Subject": 6,
+        "Grades in 3rd Subject": 0
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 10,
+        "Grades in 2nd Subject": 11,
+        "Grades in 3rd Subject": 11
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 6,
+        "Grades in 2nd Subject": 7,
+        "Grades in 3rd Subject": 0
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 8,
+        "Grades in 2nd Subject": 11,
+        "Grades in 3rd Subject": 11
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 5,
+        "Grades in 2nd Subject": 0,
+        "Grades in 3rd Subject": 0
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 14,
+        "Grades in 2nd Subject": 14,
+        "Grades in 3rd Subject": 13
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 9,
+        "Grades in 2nd Subject": 11,
+        "Grades in 3rd Subject": 11
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 9,
+        "Grades in 2nd Subject": 9,
+        "Grades in 3rd Subject": 9
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 7,
+        "Grades in 2nd Subject": 9,
+        "Grades in 3rd Subject": 0
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 16,
+        "Grades in 2nd Subject": 16,
+        "Grades in 3rd Subject": 15
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 14,
+        "Grades in 2nd Subject": 12,
+        "Grades in 3rd Subject": 12
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 4,
+        "Grades in 2nd Subject": 0,
+        "Grades in 3rd Subject": 0
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 10,
+        "Grades in 2nd Subject": 0,
+        "Grades in 3rd Subject": 0
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 11,
+        "Grades in 2nd Subject": 0,
+        "Grades in 3rd Subject": 0
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 9,
+        "Grades in 2nd Subject": 0,
+        "Grades in 3rd Subject": 0
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 12,
+        "Grades in 2nd Subject": 11,
+        "Grades in 3rd Subject": 11
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 10,
+        "Grades in 2nd Subject": 13,
+        "Grades in 3rd Subject": 12
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 8,
+        "Grades in 2nd Subject": 0,
+        "Grades in 3rd Subject": 0
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 12,
+        "Grades in 2nd Subject": 0,
+        "Grades in 3rd Subject": 0
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 18,
+        "Grades in 2nd Subject": 18,
+        "Grades in 3rd Subject": 18
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 7,
+        "Grades in 2nd Subject": 4,
+        "Grades in 3rd Subject": 0
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 19,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 7,
+        "Grades in 2nd Subject": 8,
+        "Grades in 3rd Subject": 9
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 7,
+        "Grades in 2nd Subject": 10,
+        "Grades in 3rd Subject": 11
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 13,
+        "Grades in 2nd Subject": 13,
+        "Grades in 3rd Subject": 12
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 8,
+        "Grades in 2nd Subject": 7,
+        "Grades in 3rd Subject": 8
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 14,
+        "Grades in 2nd Subject": 11,
+        "Grades in 3rd Subject": 13
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 13,
+        "Grades in 2nd Subject": 13,
+        "Grades in 3rd Subject": 13
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 16,
+        "Grades in 2nd Subject": 14,
+        "Grades in 3rd Subject": 15
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 16,
+        "Grades in 2nd Subject": 15,
+        "Grades in 3rd Subject": 15
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 14,
+        "Grades in 2nd Subject": 13,
+        "Grades in 3rd Subject": 13
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 9,
+        "Grades in 2nd Subject": 7,
+        "Grades in 3rd Subject": 8
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 13,
+        "Grades in 2nd Subject": 14,
+        "Grades in 3rd Subject": 13
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 11,
+        "Grades in 2nd Subject": 13,
+        "Grades in 3rd Subject": 14
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 15,
+        "Grades in 2nd Subject": 15,
+        "Grades in 3rd Subject": 16
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 9,
+        "Grades in 2nd Subject": 9,
+        "Grades in 3rd Subject": 9
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 18,
+        "Grades in 2nd Subject": 19,
+        "Grades in 3rd Subject": 19
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 10,
+        "Grades in 2nd Subject": 13,
+        "Grades in 3rd Subject": 13
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 7,
+        "Grades in 2nd Subject": 10,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 18,
+        "Grades in 2nd Subject": 19,
+        "Grades in 3rd Subject": 19
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 14,
+        "Grades in 2nd Subject": 15,
+        "Grades in 3rd Subject": 16
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 10,
+        "Grades in 2nd Subject": 13,
+        "Grades in 3rd Subject": 13
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 16,
+        "Grades in 2nd Subject": 18,
+        "Grades in 3rd Subject": 18
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 7,
+        "Grades in 2nd Subject": 8,
+        "Grades in 3rd Subject": 8
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 10,
+        "Grades in 2nd Subject": 11,
+        "Grades in 3rd Subject": 11
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 16,
+        "Grades in 2nd Subject": 18,
+        "Grades in 3rd Subject": 18
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 7,
+        "Grades in 2nd Subject": 6,
+        "Grades in 3rd Subject": 6
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 10,
+        "Grades in 2nd Subject": 13,
+        "Grades in 3rd Subject": 14
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 16,
+        "Grades in 2nd Subject": 17,
+        "Grades in 3rd Subject": 17
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 7,
+        "Grades in 2nd Subject": 7,
+        "Grades in 3rd Subject": 5
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 7,
+        "Grades in 2nd Subject": 9,
+        "Grades in 3rd Subject": 8
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 11,
+        "Grades in 2nd Subject": 14,
+        "Grades in 3rd Subject": 14
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 8,
+        "Grades in 2nd Subject": 9,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 11,
+        "Grades in 2nd Subject": 15,
+        "Grades in 3rd Subject": 15
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 7,
+        "Grades in 2nd Subject": 10,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 11,
+        "Grades in 2nd Subject": 13,
+        "Grades in 3rd Subject": 14
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 11,
+        "Grades in 2nd Subject": 10,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 7,
+        "Grades in 2nd Subject": 6,
+        "Grades in 3rd Subject": 6
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 16,
+        "Grades in 2nd Subject": 17,
+        "Grades in 3rd Subject": 18
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 7,
+        "Grades in 2nd Subject": 7,
+        "Grades in 3rd Subject": 8
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 8,
+        "Grades in 2nd Subject": 6,
+        "Grades in 3rd Subject": 7
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 11,
+        "Grades in 2nd Subject": 10,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 13,
+        "Grades in 2nd Subject": 14,
+        "Grades in 3rd Subject": 14
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 8,
+        "Grades in 2nd Subject": 7,
+        "Grades in 3rd Subject": 6
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 7,
+        "Grades in 2nd Subject": 9,
+        "Grades in 3rd Subject": 8
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 9,
+        "Grades in 2nd Subject": 10,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 15,
+        "Grades in 2nd Subject": 15,
+        "Grades in 3rd Subject": 15
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 7,
+        "Grades in 2nd Subject": 6,
+        "Grades in 3rd Subject": 6
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 11,
+        "Grades in 2nd Subject": 10,
+        "Grades in 3rd Subject": 11
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 10,
+        "Grades in 2nd Subject": 12,
+        "Grades in 3rd Subject": 12
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 5,
+        "Grades in 2nd Subject": 5,
+        "Grades in 3rd Subject": 5
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 8,
+        "Grades in 2nd Subject": 8,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 11,
+        "Grades in 2nd Subject": 11,
+        "Grades in 3rd Subject": 11
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 11,
+        "Grades in 2nd Subject": 11,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 9,
+        "Grades in 2nd Subject": 9,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 11,
+        "Grades in 2nd Subject": 12,
+        "Grades in 3rd Subject": 11
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 12,
+        "Grades in 2nd Subject": 12,
+        "Grades in 3rd Subject": 14
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 8,
+        "Grades in 2nd Subject": 6,
+        "Grades in 3rd Subject": 5
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 10,
+        "Grades in 2nd Subject": 10,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 13,
+        "Grades in 2nd Subject": 15,
+        "Grades in 3rd Subject": 15
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 16,
+        "Grades in 2nd Subject": 16,
+        "Grades in 3rd Subject": 16
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 8,
+        "Grades in 2nd Subject": 9,
+        "Grades in 3rd Subject": 8
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 7,
+        "Grades in 2nd Subject": 7,
+        "Grades in 3rd Subject": 6
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 13,
+        "Grades in 2nd Subject": 13,
+        "Grades in 3rd Subject": 12
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 16,
+        "Grades in 2nd Subject": 15,
+        "Grades in 3rd Subject": 15
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 10,
+        "Grades in 2nd Subject": 10,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 10,
+        "Grades in 2nd Subject": 9,
+        "Grades in 3rd Subject": 9
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 8,
+        "Grades in 2nd Subject": 10,
+        "Grades in 3rd Subject": 9
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 10,
+        "Grades in 2nd Subject": 8,
+        "Grades in 3rd Subject": 11
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 10,
+        "Grades in 2nd Subject": 11,
+        "Grades in 3rd Subject": 11
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 15,
+        "Grades in 2nd Subject": 16,
+        "Grades in 3rd Subject": 16
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 9,
+        "Grades in 2nd Subject": 10,
+        "Grades in 3rd Subject": 9
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 14,
+        "Grades in 2nd Subject": 15,
+        "Grades in 3rd Subject": 15
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 14,
+        "Grades in 2nd Subject": 15,
+        "Grades in 3rd Subject": 15
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 8,
+        "Grades in 2nd Subject": 9,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 10,
+        "Grades in 2nd Subject": 13,
+        "Grades in 3rd Subject": 13
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 8,
+        "Grades in 2nd Subject": 10,
+        "Grades in 3rd Subject": 11
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 11,
+        "Grades in 2nd Subject": 11,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 11,
+        "Grades in 2nd Subject": 13,
+        "Grades in 3rd Subject": 13
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 12,
+        "Grades in 2nd Subject": 13,
+        "Grades in 3rd Subject": 13
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 7,
+        "Grades in 2nd Subject": 7,
+        "Grades in 3rd Subject": 7
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 15,
+        "Grades in 2nd Subject": 15,
+        "Grades in 3rd Subject": 14
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 19,
+        "Grades in 2nd Subject": 19,
+        "Grades in 3rd Subject": 20
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 11,
+        "Grades in 2nd Subject": 12,
+        "Grades in 3rd Subject": 11
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 8,
+        "Grades in 2nd Subject": 8,
+        "Grades in 3rd Subject": 6
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 10,
+        "Grades in 2nd Subject": 10,
+        "Grades in 3rd Subject": 9
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 8,
+        "Grades in 2nd Subject": 8,
+        "Grades in 3rd Subject": 11
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 19,
+        "Grades in 2nd Subject": 18,
+        "Grades in 3rd Subject": 18
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 12,
+        "Grades in 2nd Subject": 12,
+        "Grades in 3rd Subject": 12
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 7,
+        "Grades in 2nd Subject": 10,
+        "Grades in 3rd Subject": 11
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 14,
+        "Grades in 2nd Subject": 13,
+        "Grades in 3rd Subject": 13
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 12,
+        "Grades in 2nd Subject": 12,
+        "Grades in 3rd Subject": 11
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 15,
+        "Grades in 2nd Subject": 16,
+        "Grades in 3rd Subject": 15
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 15,
+        "Grades in 2nd Subject": 16,
+        "Grades in 3rd Subject": 18
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 8,
+        "Grades in 2nd Subject": 7,
+        "Grades in 3rd Subject": 6
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 12,
+        "Grades in 2nd Subject": 14,
+        "Grades in 3rd Subject": 15
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 8,
+        "Grades in 2nd Subject": 10,
+        "Grades in 3rd Subject": 12
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 17,
+        "Grades in 2nd Subject": 16,
+        "Grades in 3rd Subject": 16
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 17,
+        "Grades in 2nd Subject": 16,
+        "Grades in 3rd Subject": 17
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 9,
+        "Grades in 2nd Subject": 11,
+        "Grades in 3rd Subject": 12
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 10,
+        "Grades in 2nd Subject": 12,
+        "Grades in 3rd Subject": 11
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 11,
+        "Grades in 2nd Subject": 11,
+        "Grades in 3rd Subject": 11
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 15,
+        "Grades in 2nd Subject": 16,
+        "Grades in 3rd Subject": 15
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 12,
+        "Grades in 2nd Subject": 12,
+        "Grades in 3rd Subject": 11
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 6,
+        "Grades in 2nd Subject": 9,
+        "Grades in 3rd Subject": 8
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 10,
+        "Grades in 2nd Subject": 9,
+        "Grades in 3rd Subject": 8
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 13,
+        "Grades in 2nd Subject": 13,
+        "Grades in 3rd Subject": 12
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 15,
+        "Grades in 2nd Subject": 15,
+        "Grades in 3rd Subject": 16
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 12,
+        "Grades in 2nd Subject": 15,
+        "Grades in 3rd Subject": 15
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 13,
+        "Grades in 2nd Subject": 14,
+        "Grades in 3rd Subject": 15
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 8,
+        "Grades in 2nd Subject": 10,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 6,
+        "Grades in 2nd Subject": 5,
+        "Grades in 3rd Subject": 5
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 8,
+        "Grades in 2nd Subject": 10,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 13,
+        "Grades in 2nd Subject": 14,
+        "Grades in 3rd Subject": 14
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 14,
+        "Grades in 2nd Subject": 14,
+        "Grades in 3rd Subject": 14
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 14,
+        "Grades in 2nd Subject": 16,
+        "Grades in 3rd Subject": 16
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 10,
+        "Grades in 2nd Subject": 10,
+        "Grades in 3rd Subject": 11
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 14,
+        "Grades in 2nd Subject": 14,
+        "Grades in 3rd Subject": 14
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 10,
+        "Grades in 2nd Subject": 12,
+        "Grades in 3rd Subject": 12
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 10,
+        "Grades in 2nd Subject": 8,
+        "Grades in 3rd Subject": 9
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 14,
+        "Grades in 2nd Subject": 15,
+        "Grades in 3rd Subject": 15
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 16,
+        "Grades in 2nd Subject": 18,
+        "Grades in 3rd Subject": 19
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 6,
+        "Grades in 2nd Subject": 5,
+        "Grades in 3rd Subject": 6
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 12,
+        "Grades in 2nd Subject": 12,
+        "Grades in 3rd Subject": 11
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "M",
+        "Grades in 1st Subject": 15,
+        "Grades in 2nd Subject": 15,
+        "Grades in 3rd Subject": 15
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 16,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 6,
+        "Grades in 2nd Subject": 10,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 15,
+        "Grades in 2nd Subject": 14,
+        "Grades in 3rd Subject": 15
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 15,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 7,
+        "Grades in 2nd Subject": 8,
+        "Grades in 3rd Subject": 10
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 17,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 5,
+        "Grades in 2nd Subject": 5,
+        "Grades in 3rd Subject": 6
+    },
+    {
+        "Type of School": "GP",
+        "age of the student": 18,
+        "Gender of the student": "F",
+        "Grades in 1st Subject": 5,
+        "Grades in 2nd Subject": 6,
+        "Grades in 3rd Subject": 6
+    }
+]

@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Student Predictor</title>
+</head>
+
+<body>
+    <h1>Student Performance Prediction</h1>
+
+    <form action="/predict" method="POST">
+        <!-- Numerical Features[cite: 1] -->
+        Age: <input type="number" name="age" required><br>
+        Mother Edu (0-4): <input type="number" name="Medu" required><br>
+        Father Edu (0-4): <input type="number" name="Fedu" required><br>
+        Travel Time (1-4): <input type="number" name="traveltime" required><br>
+        Study Time (1-4): <input type="number" name="studytime" required><br>
+        Failures (0-3): <input type="number" name="failures" required><br>
+        Family Rel (1-5): <input type="number" name="famrel" required><br>
+        Free Time (1-5): <input type="number" name="freetime" required><br>
+        Go Out (1-5): <input type="number" name="goout" required><br>
+        Workday Alc (1-5): <input type="number" name="Dalc" required><br>
+        Weekend Alc (1-5): <input type="number" name="Walc" required><br>
+        Health (1-5): <input type="number" name="health" required><br>
+        Absences: <input type="number" name="absences" required><br>
+
+        <!-- Categorical Features[cite: 1] -->
+        School: <select name="school">
+            <option value="GP">GP</option>
+            <option value="MS">MS</option>
+        </select><br>
+        Sex: <select name="sex">
+            <option value="F">F</option>
+            <option value="M">M</option>
+        </select><br>
+        Address: <select name="address">
+            <option value="U">Urban</option>
+            <option value="R">Rural</option>
+        </select><br>
+        Family Size: <select name="famsize">
+            <option value="GT3">GT3</option>
+            <option value="LE3">LE3</option>
+        </select><br>
+        P-Status: <select name="Pstatus">
+            <option value="T">Together</option>
+            <option value="A">Apart</option>
+        </select><br>
+        Mother Job: <select name="Mjob">
+            <option value="other">Other</option>
+            <option value="services">Services</option>
+            <option value="teacher">Teacher</option>
+            <option value="at_home">At Home</option>
+            <option value="health">Health</option>
+        </select><br>
+        Father Job: <select name="Fjob">
+            <option value="other">Other</option>
+            <option value="services">Services</option>
+            <option value="teacher">Teacher</option>
+            <option value="at_home">At Home</option>
+            <option value="health">Health</option>
+        </select><br>
+        Reason: <select name="reason">
+            <option value="course">Course</option>
+            <option value="home">Home</option>
+            <option value="reputation">Reputation</option>
+            <option value="other">Other</option>
+        </select><br>
+        Guardian: <select name="guardian">
+            <option value="mother">Mother</option>
+            <option value="father">Father</option>
+            <option value="other">Other</option>
+        </select><br>
+        School Sup: <select name="schoolsup">
+            <option value="no">No</option>
+            <option value="yes">Yes</option>
+        </select><br>
+        Family Sup: <select name="famsup">
+            <option value="no">No</option>
+            <option value="yes">Yes</option>
+        </select><br>
+        Paid: <select name="paid">
+            <option value="no">No</option>
+            <option value="yes">Yes</option>
+        </select><br>
+        Activities: <select name="activities">
+            <option value="no">No</option>
+            <option value="yes">Yes</option>
+        </select><br>
+        Nursery: <select name="nursery">
+            <option value="yes">Yes</option>
+            <option value="no">No</option>
+        </select><br>
+        Higher: <select name="higher">
+            <option value="yes">Yes</option>
+            <option value="no">No</option>
+        </select><br>
+        Internet: <select name="internet">
+            <option value="yes">Yes</option>
+            <option value="no">No</option>
+        </select><br>
+        Romantic: <select name="romantic">
+            <option value="no">No</option>
+            <option value="yes">Yes</option>
+        </select><br><br>
+
+        <button type="submit">Predict</button>
+    </form>
+
+    {% if prediction_text %}
+    <hr>
+    {% if result_color == 'green' %}
+    <h2 style="color: green;">{{ prediction_text }}</h2>
+    {% else %}
+    <h2 style="color: red;">{{ prediction_text }}</h2>
+    {% endif %}
+    <p>{{ confidence }}</p>
+    {% endif %}
+</body>
+
+</html>
